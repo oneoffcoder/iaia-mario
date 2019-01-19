@@ -1,0 +1,22 @@
+<annotation>
+    <folder>/home/super/Downloads/mario</folder>
+    <filename>mario00089.jpg</filename>
+    <segmented>0</segmented>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>mario</name>
+        <pose>center</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>193</xmin>
+            <ymin>588</ymin>
+            <xmax>280</xmax>
+            <ymax>645</ymax>
+        </bndbox>
+    </object>
+</annotation>
