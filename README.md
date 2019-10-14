@@ -1,3 +1,5 @@
+![One-Off Coder Logo](/logo.png "One-Off Coder")
+
 # iaia-polygons
 
 This repository stores exported artifacts from using [Image Annotation for Intelligence Amplification](http://iaia.oneoffcoder.com) (IAIA). 
@@ -19,3 +21,11 @@ To properly use this repository, clone it into `/tmp/iaia-mario` and then run th
 cd /tmp
 git clone https://github.com/oneoffcoder/iaia-mario.git
 ```
+
+# Contact
+
+[One-Off Coder](https://cloud.docker.com/u/oneoffcoder/) 
+* [Website](https://www.oneoffcoder.com)
+* [Twitter](https://twitter.com/oneoffcoder)
+* [Facebook](https://www.facebook.com/oneoffcoder)
+* [YouTube](https://www.youtube.com/channel/UCCCv8Glpb2dq2mhUj5mcHCQ)
